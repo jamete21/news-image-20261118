@@ -1,6 +1,8 @@
 # Sum up 18 November's world news in one image
 
-[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/jamete21/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/jamete21/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 A newspaper front page summing up Wednesday 18 November 2026's world
 news in a single image, built for make.fun's
@@ -33,3 +35,7 @@ bytes on every run. `build_image.py` is the script that drew
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=18vvq4qr&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards
